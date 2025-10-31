@@ -77,8 +77,7 @@
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ec6a9828-677e-42e7-b724-d572f861f4ec" />
 
-
-<img width="2245" height="3179" alt="Image" src="https://github.com/user-attachments/assets/f031c530-ef9c-4cdf-af28-ff7db3a0584c" />
+<img width="2245" height="3179" alt="Image" src="https://github.com/user-attachments/assets/8c1ea2c3-7ff1-4baa-bf51-26178b5473fe" />
     
 - 기관/부서 인터뷰 ✔️  
 
