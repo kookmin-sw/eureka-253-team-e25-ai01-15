@@ -76,6 +76,9 @@
             3D프린터와 생명공학의 발달로 사람의 장기를 3D프린터를 통하여 제작하는 모습.
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ec6a9828-677e-42e7-b724-d572f861f4ec" />
+
+
+<img width="2245" height="3179" alt="Image" src="https://github.com/user-attachments/assets/f031c530-ef9c-4cdf-af28-ff7db3a0584c" />
     
 - 기관/부서 인터뷰 ✔️  
 
