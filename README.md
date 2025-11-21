@@ -78,6 +78,14 @@
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ec6a9828-677e-42e7-b724-d572f861f4ec" />
 
 <img width="2245" height="3179" alt="Image" src="https://github.com/user-attachments/assets/8c1ea2c3-7ff1-4baa-bf51-26178b5473fe" />
+
+
+-11/14 대학원 선배만나기
+참석인원:배인환,즈엉
+
+  -느낀점
+  이번 시간에서는 대학원선배님과의 질의응답을 거쳤었습니다.평소 학부생 선배들과만 교류를 거쳐 대학원에 대해서는 잘 알지 못했었는데 이번기회를 통하여 소융대 대학원은 어떠한 곳인지를 잘 알게된것같습니다.
+  또한 학부연구생은 어떠한 업무를 하고 대학원 진학시 고려해야할점,실제 대학원생으로서의 활동은 어떠한것인지에 대해 듣게되면서 큰 도움이 되었던것같습니다
     
 - 기관/부서 인터뷰 ✔️  
 
